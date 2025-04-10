@@ -16,5 +16,8 @@
     "url": "https://github.com/JonasValCas/jonas_init/issues"
   },
   "homepage": "https://github.com/JonasValCas/jonas_init#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
